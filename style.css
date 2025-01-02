@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightsalmon;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+header{
+    color: whitesmoke;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+section{
+    width: 400px;
+    margin: auto;
+    background-color: lightgray;
+    text-align: center;
+    height: 480px;
+    padding: 10px;
+    font-weight: bold;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+#botao{
+    padding: 10px;
+    width: 100px;
+    font-weight: bold;
+    background-color:salmon;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#foto{
+    width: 290px;
+    height: 200px;
+    margin-top: 30px;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: orange;
+    width: 300px;
+    margin: auto;
+    margin-top:5px ;
+    border-radius: 10px;
+}
